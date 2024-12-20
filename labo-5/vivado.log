@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Apr  6 18:12:17 2024
+# Process ID: 8132
+# Current directory: C:/inf3500/workspace/labo-5-2000081_2247873
+# Command line: vivado.exe -mode tcl
+# Log file: C:/inf3500/workspace/labo-5-2000081_2247873/vivado.log
+# Journal file: C:/inf3500/workspace/labo-5-2000081_2247873\vivado.jou
+# Running On: LAPTOP-99IV4J6Q, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16487 MB
+#-----------------------------------------------------------
+Vivado% read_vhdl -vhdl2008 ../sources/top_labo_5.vhd
+ERROR: [Common 17-69] Command failed: File 'C:/inf3500/workspace/sources/top_labo_5.vhd' does not exist
+
+Vivado% 
